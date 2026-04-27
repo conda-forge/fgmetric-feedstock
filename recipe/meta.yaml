@@ -1,4 +1,4 @@
-{% set version = "0.1.0" %}
+{% set version = "0.2.0" %}
 {% set python_min = "3.12" %}
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/fgmetric/fgmetric-{{ version }}.tar.gz
-  sha256: 964680a9535dd1754b8cfb7fc450b8982f6b94bba77ecbee3435c9ffb21fd710
+  sha256: cf0ad030f0d4d3bf04cbe9d93326c2e544e8a2b3e8467b4810df35ebb666d7f1
 
 build:
   noarch: python
