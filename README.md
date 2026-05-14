@@ -144,6 +144,3 @@ Feedstock Maintainers
 
 * [@msto](https://github.com/msto/)
 
-
-<!-- dummy commit to enable rerendering -->
-
